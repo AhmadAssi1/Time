@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Time</string>
+    <string name="login">login</string>
+    <string name="do_not_have_an_account_registration">do not have an account? registration</string>
+    <string name="already_have_an_account_login">already have an account? login</string>
+    <string name="what_do_you_like_to_now">What do you like to now ?</string>
+</resources>
