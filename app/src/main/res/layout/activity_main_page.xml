@@ -62,7 +62,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/material_dynamic_neutral20"
-                android:text="The Day"
+                android:text="The Time"
                 android:textColor="@color/material_dynamic_neutral99" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
